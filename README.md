@@ -2,7 +2,7 @@
 
 > A simple and responsive React application for browsing a collection of movies.
 
-[🚀 **Live Demo**] https://movie-library-ivory-three.vercel.app/
+[🚀 **Live Demo**](https://movie-library-ivory-three.vercel.app/)
 
 ---
 
