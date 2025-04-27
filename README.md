@@ -20,8 +20,8 @@
 
 ## 📦 Getting Started
 
-Clone the repository:
+- Clone the repository:
 git clone https://github.com/Babke-dev/movieLibrary.git
-cd movieLibrary
-npm install
-npm start
+- cd movieLibrary
+- npm install
+- npm start
